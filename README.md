@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RockManJoe64
+- 🌮 Latinx Tech Community member!
 - 👀 I’m interested in anything cloud related (Azure, Google Cloud)
-- 🌱 I’m currently studying for the Azure Solution Architect Expert certification
-- 💞️ I’m looking to collaborate on any project that is using Crystal-lang
+- 🏅 Google Cloud Professional Cloud Architect
+- 🌱 I’m currently studying for the Google Cloud Professional Cloud DevOps Engineer certification
 - 📫 You can reach me by private message
 
 <!---
