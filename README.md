@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RockManJoe64
 - 🌮 Latinx Tech Community member!
-- 👀 I’m interested in anything cloud related (Azure, Google Cloud)
+- 👀 I’m interested in learning new languages and frameworks(Crystal, Rust, Quarkus)
 - 🏅 Google Cloud Professional Cloud Architect
-- 🌱 I’m currently studying for the Google Cloud Professional Cloud DevOps Engineer certification
+- 🌱 I’m currently studying for the Google Cloud Professional Machine Learning Engineer certification
 - 📫 You can reach me by private message
 
 <!---
