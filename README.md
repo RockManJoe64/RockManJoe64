@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @RockManJoe64
+- 🪄 Binary Wizard of the Third Order
 - 🌮 Latinx Tech Community member!
-- 👀 I’m interested in learning new languages and frameworks(Crystal, Rust, Quarkus)
-- 🏅 Google Cloud Professional Cloud Architect
-- 🌱 I’m currently studying for the Google Cloud Professional Machine Learning Engineer certification
-- 📫 You can reach me by private message
+- 🧙🏼‍♂️ Java/JavaScript/C# Veteran
+- 🪨 Currently learning the [Crystal](https://crystal-lang.org/) programming language
+- 🕸️ [Open Web](https://www.mozilla.org/en-US/foundation/reimagine-open/) Supporter
+- 🐘 [@rockmanjoe@fosstodon.org](https://fosstodon.org/@rockmanjoe)
 
 <!---
 RockManJoe64/RockManJoe64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
