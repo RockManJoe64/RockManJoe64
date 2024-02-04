@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RockManJoe64
 - 🪄 Binary Wizard of the Third Order
-- 🌮 Latinx Tech Community member!
 - 🧙🏼‍♂️ Java/JavaScript/C# Veteran
 - 🪨 Currently learning the [Crystal](https://crystal-lang.org/) programming language
 - 🕸️ [Open Web](https://www.mozilla.org/en-US/foundation/reimagine-open/) Supporter
