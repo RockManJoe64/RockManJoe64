@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RockManJoe64
 - 🪄 Binary Wizard of the Third Order
 - 🧙🏼‍♂️ Java/JavaScript Veteran
-- 🪨 Currently learning how to create virtual reality apps using [Unity3D](https://learn.unity.com/course/create-with-vr) and [Android XR](https://developer.android.com/develop/xr) targeting [Meta Quest](https://developers.meta.com/horizon/) headsets.
+- 🎓 Currently learning how to create virtual reality apps using [Unity3D](https://learn.unity.com/course/create-with-vr) and [Android XR](https://developer.android.com/develop/xr) targeting [Meta Quest](https://developers.meta.com/horizon/) headsets.
 - 📱 Developing mobile apps in Kotlin and Flutter
 - 🕸️ [Open Web](https://www.mozilla.org/en-US/foundation/reimagine-open/) Supporter
 
